@@ -1,5 +1,4 @@
 {
-  "private": false,
   "displayName": "Homebridge Aquanta",
   "name": "@zoopra9457/homebridge-aquanta",
   "version": "1.0.0",
@@ -30,7 +29,6 @@
     "axios": "^0.25.0",
     "axios-cookiejar-support": "^2.0.3",
     "date-fns": "^2.28.0",
-    "homebridge-http-switch": "^0.5.35",
     "tough-cookie": "^4.0.0"
   },
   "devDependencies": {
